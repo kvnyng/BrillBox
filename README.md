@@ -1,7 +1,7 @@
 # BrillBox
 
 ## Check out my pitch video!
-[Video:](https://www.youtube.com/watch?v=0VwampxgdxY) https://www.youtube.com/watch?v=0VwampxgdxY
+Video: https://www.youtube.com/watch?v=0VwampxgdxY
 ## Introduction
 With the shortage of PPE in hospitals and masks surging in price on online delivery sites, the public has resorted to taking their own initiative to protect themselves. This initiative has primarily become prevalent with anyone that has 3-D printers or sewing equipment. With organizations such as Helpful Engineering creating and certifying 3-D printed mask designs, they help set the standard of safety in the D.I.Y PPE community. Yet, how does the public know if their masks are still safe after a certain amount of uses? Our mouths are essentially a vacuum, sucking up surrounding particulates. When an N-95 mask is worn, these particulates get sucked towards our faces only to be stopped by the mask. Over time, germs, dirt, and viruses will populate themselves onto the surface, turning it into a health hazard to anyone that touches it. 
 
